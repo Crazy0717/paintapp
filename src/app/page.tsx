@@ -1,4 +1,3 @@
-"use client"
 import DrawingCanvas from "@/components/playground"
 
 const Page = () => {
